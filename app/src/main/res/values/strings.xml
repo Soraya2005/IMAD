@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My ApplicationSORAYA</string>
+    <string name="submit">Submit</string>
+    <string name="enter_meal_of_the_day">Enter_meal_of_the_day</string>
+    <string name="reset">Reset</string>
+    <string name="meal_suggestion_app">Meal Suggestion App</string>
+    <string name="enter_a_time_of_day" />
+</resources>
