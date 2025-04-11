@@ -5,9 +5,9 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    tools:ignore="ExtraText">
 
-    <!-- Background Image -->
     <androidx.appcompat.widget.AppCompatImageView
         android:id="@+id/backgroundImage"
         android:layout_width="match_parent"

@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
                     }
                     "afternoon" -> {
                         mealSuggestion = "Lunch: Sandwich"
-                        backgroundImageToSet = ContextCompat.getDrawable(this, R.drawable.sandwich)
+                        backgroundImageToSet = ContextCompat.getDrawable(this, R.drawable.fruits)
                     }
                     "mid-afternoon" -> {
                         mealSuggestion = "Snack: Chocolate Cake"
